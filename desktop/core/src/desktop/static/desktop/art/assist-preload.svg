@@ -1,17 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="246px" height="177px" viewBox="0 0 246 177" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
-    <title>Slice</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect id="Rectangle" fill="#E7E7E7" x="13" y="3" width="138" height="13"></rect>
-        <rect id="Rectangle" fill="#E7E7E7" x="13" y="25" width="156" height="13"></rect>
-        <rect id="Rectangle" fill="#E7E7E7" x="13" y="47" width="167" height="13"></rect>
-        <rect id="Rectangle" fill="#E7E7E7" x="13" y="69" width="138" height="13"></rect>
-        <rect id="Rectangle" fill="#E7E7E7" x="13" y="90" width="156" height="13"></rect>
-        <rect id="Rectangle" fill="#E7E7E7" x="13" y="112" width="138" height="13"></rect>
-        <rect id="Rectangle" fill="#E7E7E7" x="13" y="134" width="156" height="13"></rect>
-        <rect id="Rectangle" fill="#E7E7E7" x="13" y="156" width="156" height="13"></rect>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="246" height="177" version="1.1" viewBox="0 0 246 177"><title>Slice</title><desc>Created with Sketch.</desc><g id="Page-1" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><rect id="Rectangle" width="138" height="13" x="13" y="3" fill="#E7E7E7"/><rect id="Rectangle" width="156" height="13" x="13" y="25" fill="#E7E7E7"/><rect id="Rectangle" width="167" height="13" x="13" y="47" fill="#E7E7E7"/><rect id="Rectangle" width="138" height="13" x="13" y="69" fill="#E7E7E7"/><rect id="Rectangle" width="156" height="13" x="13" y="90" fill="#E7E7E7"/><rect id="Rectangle" width="138" height="13" x="13" y="112" fill="#E7E7E7"/><rect id="Rectangle" width="156" height="13" x="13" y="134" fill="#E7E7E7"/><rect id="Rectangle" width="156" height="13" x="13" y="156" fill="#E7E7E7"/></g></svg>
